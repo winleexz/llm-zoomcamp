@@ -1,2 +1,2 @@
 # llm-zoomcamp
- This is a 10-week course where i get to build an AI bot that can answer questions about a knowledge based on multiple assignments.
+ This folder contains the building blocks to build an AI bot that can answer questions on a specific domain using RAG (Retrieval Augmented Generation).
